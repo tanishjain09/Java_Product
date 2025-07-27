@@ -31,14 +31,3 @@ This is a **Java-based console application** for generating customer invoices wi
 
 ---
 
-## 📁 Project Structure
-OOP_Project/
-│
-├── Customer.java // Customer details
-├── Product.java // Product details
-├── TaxCalculator.java // Interface for tax calculation
-├── IndiaTax.java // GST logic for India
-├── USTax.java // Tax logic for US
-├── TaxFactory.java // Factory pattern to get tax calculator
-├── Invoice.java // Business logic for total/tax
-└── Main.java // Main method: user input + invoice display
