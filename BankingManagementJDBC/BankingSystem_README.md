@@ -122,14 +122,7 @@ java BankingApp
 - Add unit and integration tests.
 
 ---
+This project was created following tutorials by Indian Programmer.
 
-## Contact
-
-For any queries or contributions, feel free to contact:
-
-**Your Name**  
-Email: your.email@example.com
-
----
 
 **Thank you for using the Banking System!**
